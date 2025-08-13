@@ -19,7 +19,7 @@ struct FourDaysOfTheWeek: View {
         
         
         
-        HStack (spacing: 15){
+        HStack (spacing: 20){
             
             
             ForEach (0..<WeekDays.count) {
