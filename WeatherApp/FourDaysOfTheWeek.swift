@@ -9,7 +9,7 @@ import SwiftUI
 
 struct FourDaysOfTheWeek: View {
     
-    var WeekDays : [String] = ["TUE","WED","THU","FRI","SAT"]
+    var WeekDays : [String] = ["TUE","WED","THU","FRI","SAT","SUN"]
     
     var images : [String] = ["cloud.sun.fill","cloud.hail.fill","cloud.drizzle.fill","cloud.sleet.fill","cloud.bolt.fill"]
     
